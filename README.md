@@ -8,5 +8,4 @@ And based on sales region analysis, it is clear which kind of  videogame is more
 However, analysis is not enough in today’s serve competition. We cannot wait for the result of market selection but instead, 
 we have to predict the results to take actions ahead of time.Here we chose a data set about videogames sales 
 situation in different areas with additional information such as Platform, Genre,Critic Score and count. 
-Based on this information, we can predict  videogames sales number as well as the popularity in North American region Region in the future.
-by binning and creating a formula based on research with respect to critic score.Region in the future.
+Based on this information, we can predict  videogames sales number as well as the popularity in North American region Region in the future by binning and creating a formula based on research with respect to critic score.
